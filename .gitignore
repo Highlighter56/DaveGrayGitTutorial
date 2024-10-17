@@ -1,0 +1,11 @@
+# Hashtags are comments in this file
+
+
+# this will tell git to ignore the notes.txt file
+notes.txt
+
+# tells git to ignore and file with the pattern: (something).txt
+# *.txt
+
+# tells git to ignore any file with the pattern: index.(somehting)
+# index.*
